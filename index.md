@@ -1,6 +1,6 @@
 {% include navigation.html %}
 ## Welcome to baby Pages
-![Babies](src/pictures/2006_027.jpg)
+![Babies](/pictures/2006_027.jpg)
 
 You can use the [editor on GitHub](https://github.com/nikolajwinther/hjemmeside/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
